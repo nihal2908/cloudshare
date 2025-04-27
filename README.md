@@ -27,7 +27,7 @@ Didn't work? Try this one: [https://nihal2908.github.io/cloudshare](https://niha
 
 ## 🧐 Why CloudShare?
 
-> "I built CloudShare during my college lab sessions for me and my friends to quickly send files and notes between my devices and friends, without any ads or unnecessary steps. Just fast, clean, and simple."
+"I built CloudShare during my college lab sessions for me and my friends to quickly send files and notes between my devices and friends, without any ads or unnecessary steps. Just fast, clean, and simple."
 
 ---
 
